@@ -36,3 +36,13 @@ function capitalizeWord(word, firstLetter) {
 
 ### Experience: 
 I don't have experience yet.
+
+---
+
+### Education:
+Dnipro University of Technology, software engineering.
+
+---
+
+### English:
+Intermediate(B1).
