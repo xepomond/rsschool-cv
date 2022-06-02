@@ -22,3 +22,17 @@ _I work well in a team and learn quickly. I`am good at communicate  with people.
 + Git
 
 ---
+
+### Code Example:
+```
+function capitalizeWord(word, firstLetter) {
+  firstLetter = word.slice(0, 1).toUpperCase();
+  word =  firstLetter + word.slice(1);
+  return word;
+}
+```
+
+---
+
+### Experience: 
+I don't have experience yet.
