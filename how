@@ -1,0 +1,29 @@
+[33mcommit d51f725ba1a12e7ca21fd77fbe019151bd3d9785[m[33m ([m[1;36mHEAD -> [m[1;32mgh-pages[m[33m, [m[1;31morigin/gh-pages[m[33m)[m
+Author: Andrii <anka4717@gmail.com>
+Date:   Thu Jun 2 14:15:30 2022 +0300
+
+    docs: update readme
+
+[33mcommit 7b005920c29a53615628a8c639cfe4742a24e54b[m
+Author: Andrii <anka4717@gmail.com>
+Date:   Thu Jun 2 14:13:12 2022 +0300
+
+    feat: add education and english blocks
+
+[33mcommit 50004c7c28ad9d968a13515e32285ee6acd1f0d8[m
+Author: Andrii <anka4717@gmail.com>
+Date:   Thu Jun 2 14:12:16 2022 +0300
+
+    feat: add code and experience blocks
+
+[33mcommit 15dcd1fd591bab56ba6786ffd8a69aa1b6da3be7[m
+Author: Andrii <anka4717@gmail.com>
+Date:   Thu Jun 2 14:10:37 2022 +0300
+
+    feat: add contacts, about me and skills blocks
+
+[33mcommit 23040ec7b189fa89a62bf6d25c6ec38180e356e3[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Andrii <anka4717@gmail.com>
+Date:   Thu Jun 2 14:06:54 2022 +0300
+
+    init: start CV#1. Markdown & Git task
